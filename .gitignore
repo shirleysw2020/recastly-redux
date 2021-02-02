@@ -10,5 +10,5 @@ compiled/
 # dist/
 
 ## API keys ##
-src/config/youtube.example.js
+src/config/
 compiled/config/youtube.js
