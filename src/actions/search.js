@@ -8,6 +8,8 @@ var handleVideoSearch = (q) => {
 
   //TODO:  Write an asynchronous action to handle a video search!
   // YOUTUBE_API_KEY
+  //call searchYoutube and
+  //return videos (search result)
 };
 
 export default handleVideoSearch;
